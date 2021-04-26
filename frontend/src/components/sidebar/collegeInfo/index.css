@@ -1,0 +1,23 @@
+.collegeInfoContainer {
+    margin:20px;
+}
+
+.collegeInfoContent {
+    margin: 30px;
+}
+
+.divider {
+  display: flex;
+}
+
+.line {
+  align-items: center;
+  margin: 1em -1em;
+}
+
+.collegeInfoButtonContainer {
+  display: flex;
+  flex-direction: row;
+  height: auto;
+  justify-content: center;
+}

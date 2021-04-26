@@ -1,0 +1,11 @@
+.backButtonContainer {
+    position: absolute;
+    z-index: 0;
+    width: 100vw;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.mapPageContainer {
+    padding-left: 23vw;
+ }
